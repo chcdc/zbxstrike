@@ -1,2 +1,5 @@
 shodan
 zabbix-api
+Flask==1.1.1
+Flask-RESTful==0.3.7
+Flask-SQLAlchemy
