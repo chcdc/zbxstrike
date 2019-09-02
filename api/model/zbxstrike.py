@@ -15,12 +15,12 @@ class ZbxstrikeModel(database.Model):
         self.zabbix_password = zabbix_password
 
     def parse_json(self):
-        return {'
+        return {
             'zabbix_ip': self.zabbix_ip,
-            'zabbix_dns': self.zabbix_dns
-            'zabbix_user': self.zabbix_user
+            'zabbix_dns': self.zabbix_dns,
+            'zabbix_user': self.zabbix_user,
             'zabbix_password': self.zabbix_password
-        '}
+        }
 
     def save_target(self):
         database.session.add(self)
