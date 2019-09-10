@@ -67,10 +67,10 @@ def banner():
 ╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 
 Author:     Gabriel Dutra
-Github:     github.com/gmdutra
-Blog:       https://dutra.travel.blog
-Email:      gmdutra.me@gmail.com
-Linkedin:   https://linkedin.com/in/gmdutra
+Github:     github.com/zer0dx
+Blog:       https://zer0dx.github.io
+Email:      gmdutra.root@gmail.com
+Linkedin:   https://linkedin.com/in/zer0dx
 
 Date: 8/04/2019
 
