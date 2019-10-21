@@ -25,7 +25,7 @@ python3 zbxstrike.py --key Iwb3CrzU8ZCt6cOZoxUgaFWDERuee1Lm --thread 4
 ```
 ----
 
-## **I am not responsible for the illegal use of the tool**  :simple_smile:
+## **I am not responsible for the illegal use of the tool**  :smile:
 
 ----
 
